@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# AUTHOR
+Riswanti Siallagan | riswantysiallagan1702@gmail.com
