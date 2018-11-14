@@ -24,19 +24,19 @@ Things you may want to cover:
 * ...
 
 # Rails Basic Command
-rails new my_project -d postgresql  | create project with postgresql db
-rake db:create   | create database
-rake db:migrate | running migration
-rails server | running server
-rails console | running rails console
-rails g controller controller_name | create controller
-rails g model mode_name | create model
-rails g migration migration_name | for edit table
-rails routes | show all routes in routes.rb
-rails db | show database in postgresql
-rails g scaffold model_name | generate CRUD scaffoldproject
-rake -T | show all command in rails
-rake db:drop | drop database
+  
+    rails new my_project -d postgresql  | create project with postgresql db
+    rake db:create   | create database
+    rake db:migrate | Create migration
+    rrails g controller controller_name | create controller
+    rails g model mode_name | create model
+    rails g migration migration_name | for edit table
+    rails routes | show all routes in routes.rb
+    rails db | show database in postgresql
+    rails g scaffold model_name | generate CRUD scaffoldproject
+    rake -T | show all command in rails
+    rake db:drop | drop database
+    running at http://localhost:3000
 
 
 # AUTHOR
