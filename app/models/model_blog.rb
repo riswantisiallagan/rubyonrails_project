@@ -1,0 +1,2 @@
+class ModelBlog < ApplicationRecord
+end

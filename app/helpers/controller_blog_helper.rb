@@ -1,0 +1,2 @@
+module ControllerBlogHelper
+end
